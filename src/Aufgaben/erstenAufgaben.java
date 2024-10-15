@@ -4,6 +4,7 @@ public class erstenAufgaben {
 
 
     public static void main(String[] args) {
+        System.out.println("Hallo");
         // 1)
         int n=10;
         int b=7;
