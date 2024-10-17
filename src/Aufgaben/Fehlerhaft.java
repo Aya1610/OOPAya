@@ -22,7 +22,7 @@ public class Fehlerhaft {
 //    }
 //    void test2(boolean attribut2)
 //    {
-//        boolean attribut2;
-//        attribut4=17.5;
+//        boolean attribut2; Attribut2 ist im Block vorhanden
+//        attribut4=17.5;    Lokale Variable
 //    }
 }

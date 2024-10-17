@@ -94,6 +94,50 @@ public class erstenAufgaben {
         System.out.println();
 
 
+        //6)
+        int n3=4;
+        switch (n3) {
+            case 1:
+                System.out.println("January");
+                break;
+            case 2:
+                System.out.println("February");
+                break;
+            case 3:
+                System.out.println("Mars");
+                break;
+            case 4:
+                System.out.println("April");
+                break;
+            case 5:
+                System.out.println("Mai");
+                break;
+            case 6:
+                System.out.println("Juni");
+                break;
+            case 7:
+                System.out.println("Juli");
+            case 8:
+                System.out.println("August");
+                break;
+            case 9:
+                System.out.println("September");
+                break;
+            case 10:
+                System.out.println("Oktober");
+                break;
+            case 11:
+                System.out.println("Novenber");
+                break;
+            case 12:
+                System.out.println("December");
+                break;
+            default:
+                System.out.println("Bitte eine Zahl von 1 bis 12 eingeben.");
+                break;
+        }
+
+
 
         //7)
         int i=2;
@@ -119,14 +163,13 @@ public class erstenAufgaben {
 
 
 
-
         //9)
         String Passwort="1234aya";
         String Passwort2="1234aya";
         String Benutzername="Aya";
         String Benutzername2="Aya";
         if (Benutzername2.equals(Benutzername) && Passwort2.equals(Passwort)) {
-            System.out.println("Der login ist erfolgreich");
+            System.out.println("Login erfolgreich");
         } else{
             System.out.println("Falsche Passwort oder Beutzernamme ");
 

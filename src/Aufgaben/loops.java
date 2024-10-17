@@ -57,6 +57,8 @@ public class loops {
         }
         System.out.println(count);
 
+
+
         //8)
         int zahl =12;
         int p=0;
