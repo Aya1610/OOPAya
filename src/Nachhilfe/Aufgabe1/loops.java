@@ -1,6 +1,4 @@
-package Aufgaben;
-
-import com.sun.source.tree.BreakTree;
+package Nachhilfe.Aufgabe1;
 
 
 public class loops {
