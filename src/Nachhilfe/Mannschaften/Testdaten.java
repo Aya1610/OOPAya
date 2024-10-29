@@ -37,7 +37,8 @@ public class Testdaten {
        System.out.println("Gehalt: " + arzt.berechneGehalt() + " EUR\n");
 
 
-       //mannschaft.addMitglied(new Spieler("Götze", "Mario", "Mittelfeld", 5));
+       //
+       // mannschaft.addMitglied(new Spieler("Götze", "Mario", "Mittelfeld", 5));
     }
 }
 
