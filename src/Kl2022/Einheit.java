@@ -1,9 +1,9 @@
 package Kl2022;
 
 public enum Einheit {
-    MUM(1000),
+    MUM(0.001),
     MM(1),
-    CM(0.1),
+    CM(10),
     DM(100),
     M(1000),
     KM(1000000);
