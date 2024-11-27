@@ -1,4 +1,4 @@
-package Aufgaben;
+package Nachhilfe.Aufgabe1;
 
 public class Dozent {
     private String name;

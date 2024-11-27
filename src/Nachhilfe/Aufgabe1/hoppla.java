@@ -1,4 +1,4 @@
-package Aufgaben;
+package Nachhilfe.Aufgabe1;
 
 public class hoppla {
     public static void hoppla(long x, long y, double z) {

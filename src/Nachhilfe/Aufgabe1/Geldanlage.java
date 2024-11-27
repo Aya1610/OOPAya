@@ -1,4 +1,4 @@
-package Aufgaben;
+package Nachhilfe.Aufgabe1;
 
 import java.util.Scanner;
 

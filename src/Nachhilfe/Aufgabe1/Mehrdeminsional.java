@@ -1,6 +1,5 @@
-package Aufgaben;
+package Nachhilfe.Aufgabe1;
 
-import java.awt.*;
 import java.util.Arrays;
 
 public class Mehrdeminsional {
